@@ -6,7 +6,7 @@ Public repository contains visuals only. Full design files are restricted.
 
 ---
 
-## Motor Driver Board
+# Motor Driver Board
 
 ### Key Highlights
 - 6-layer PCB stackup
@@ -28,3 +28,28 @@ Public repository contains visuals only. Full design files are restricted.
 
 ### Routing Overview
 ![Motor Routing](Screenshot 2026-02-10 215308.png)
+
+---
+
+# Control Board
+
+### Key Highlights
+- Multi-sensor integration (IMU, gyro, magnetometer)
+- I2C and SPI bus routing
+- Compact layout within CubeSat volume constraints
+- Integrated power regulation and filtering
+
+---
+
+### 3D View (Top)
+![Control 3D Top](CONTROL_TOP_FILENAME.png)
+
+---
+
+### 3D View (Bottom)
+![Control 3D Bottom](CONTROL_BOTTOM_FILENAME.png)
+
+---
+
+### Routing Overview
+![Control Routing](CONTROL_ROUTING_FILENAME.png)
