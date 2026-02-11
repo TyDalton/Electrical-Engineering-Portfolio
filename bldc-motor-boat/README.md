@@ -26,7 +26,7 @@ Boat operating in a drag race.
 
 ---
 
-## Mechanical View
+## Expanded Mechanical View
 
 ![Housing Assembly](images/expanded_motor_housing)
 
