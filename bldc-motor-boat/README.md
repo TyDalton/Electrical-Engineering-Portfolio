@@ -21,7 +21,7 @@ Boat operating in a drag race.
 - Hand-wound copper windings
 - Integrated into sealed housing
 
-![Motor Cross Section](images/CS_motor_windings)
+![Motor Cross Section](images/CS_motor_housing)
 ![Motor Windings](images/motor_windings)
 
 ---
