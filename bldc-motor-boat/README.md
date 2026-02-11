@@ -1,44 +1,41 @@
-# BLDC Motor Boat Controller
+# BLDC Motor Boat System
 
-Custom-designed brushless DC motor boat system integrating electrical, mechanical, and control subsystems.
+Custom-designed brushless DC motor boat integrating motor design, mechanical housing, and embedded user control.
 
-Project scope included motor design, housing integration, control electronics, and user interface development.
+This project focused on end-to-end system integration from motor construction to real-world operation.
 
 ---
 
 ## System Demonstration
 
-(Video demonstration of boat operating in water)
+Boat operating in drag race.
+
+[Watch Demonstration Video](VIDEO_LINK_HERE)
 
 ---
 
-## Electrical Design
+## Custom BLDC Motor Design
 
-### Key Highlights
-- BLDC motor phase drive implementation
-- High-current routing and power distribution
-- Microcontroller-based control system
-- Current sensing and feedback integration
+### 12-Pole / 10-Slot Configuration
+- Custom stator configuration
+- Hand-wound copper windings
+- Integrated into sealed housing
 
-(Insert PCB layout image here)
-
----
-
-## Mechanical Integration
-
-### Motor Cross-Section
-(Insert cross-sectional image)
-
-### Motor Windings
-(Insert winding image)
+![Motor Cross Section](images/motor_cross_section.png)
+![Motor Windings](images/motor_windings.png)
 
 ---
 
-## Control System & User Interface
+## Mechanical View
 
-### Control Strategy
-Brief description of control method used (FOC, six-step commutation, PWM control, etc.)
+![Housing Assembly](images/housing_assembly.png)
 
-### UI Demonstration
-(Insert UI working video or screenshot)
+---
 
+## Control & User Interface
+
+- Arduino Uno-based joystick control
+- Throttle and direction control logic
+- Real-time user feedback interface for motor RPM, motor temp, and run time
+
+![UI Overview](images/ui_overview.png)
