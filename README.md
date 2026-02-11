@@ -1,6 +1,6 @@
 # Electrical Engineering Portfolio
 
-Selected hardware and control systems projects.
+Selected project.
 
 ## Projects
 
