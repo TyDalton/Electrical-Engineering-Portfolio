@@ -3,5 +3,5 @@
 
 ## Projects
 
-- [CubeSat System](./cubesat/)
+- [CubeSat Mission](./cubesat/)
 - [BLDC Motor Boat Controller](./bldc-motor-boat/)
