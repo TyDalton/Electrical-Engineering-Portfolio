@@ -21,14 +21,14 @@ Boat operating in a drag race.
 - Hand-wound copper windings
 - Integrated into sealed housing
 
-![Motor Cross Section](images/CS_motor_windings.png)
-![Motor Windings](images/motor_windings.png)
+![Motor Cross Section](images/CS_motor_windings)
+![Motor Windings](images/motor_windings)
 
 ---
 
 ## Mechanical View
 
-![Housing Assembly](images/expanded_motor_housing.png)
+![Housing Assembly](images/expanded_motor_housing)
 
 ---
 
@@ -38,4 +38,4 @@ Boat operating in a drag race.
 - Throttle and direction control logic
 - Real-time user feedback interface for motor RPM, motor temp, and run time
 
-![UI Overview](images/ui_onshape.png)
+![UI Overview](images/ui_onshape)
