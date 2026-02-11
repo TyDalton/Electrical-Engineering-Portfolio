@@ -17,17 +17,17 @@ Public repository contains visuals only. Full design files are restricted.
 ---
 
 ### 3D View (Top)
-![Motor 3D Top](Screenshot 2026-02-10 215501.png)
+![Motor 3D Top](images/Screenshot 2026-02-10 215501.png)
 
 ---
 
 ### 3D View (Bottom)
-![Motor 3D Bottom](Screenshot 2026-02-10 215437.png)
+![Motor 3D Bottom](images/Screenshot 2026-02-10 215437.png)
 
 ---
 
 ### Routing Overview
-![Motor Routing](Screenshot 2026-02-10 215308.png)
+![Motor Routing](images/Screenshot 2026-02-10 215308.png)
 
 ---
 
