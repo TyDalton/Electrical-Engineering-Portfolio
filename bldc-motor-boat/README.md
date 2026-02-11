@@ -10,7 +10,7 @@ This project focused on end-to-end system integration from motor construction to
 
 Boat operating in a drag race.
 
-[Watch Demonstration Video](VIDEO_LINK_HERE)
+[Watch Demonstration Video](https://youtu.be/qGRBWFyrM-k)
 
 ---
 
