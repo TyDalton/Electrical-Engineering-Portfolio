@@ -9,14 +9,17 @@ Public repository contains visuals only. Full design files are restricted.
 ## Motor Driver Board
 
 **Key Highlights**
-- 4-layer PCB stackup with dedicated ground plane
+- 4-layer PCB stackup
 - High-current BLDC phase routing
-- Integrated current sensing (INA240) for closed-loop control
+- Integrated current sensing
 - STM32 microcontroller integration
 
-![Motor Top](images/motor-top.png)
-![Motor Bottom](images/motor-bottom.png)
-![Motor 3D](images/motor-3d.png)
+### Routing Overview
+![Motor Routing](images/motor-routing.png)
+
+### 3D Views
+![Motor 3D Angle 1](images/motor-3d-1.png)
+![Motor 3D Angle 2](images/motor-3d-2.png)
 
 ---
 
@@ -24,10 +27,13 @@ Public repository contains visuals only. Full design files are restricted.
 
 **Key Highlights**
 - IMU, gyro, and magnetometer integration
-- I2C/SPI routing for sensor bus management
-- Compact layout under CubeSat volume constraints
-- Embedded power regulation and filtering
+- I2C/SPI bus routing
+- Compact layout under CubeSat constraints
+- Embedded regulation and filtering
 
-![Control Top](images/control-top.png)
-![Control Bottom](images/control-bottom.png)
-![Control 3D](images/control-3d.png)
+### Routing Overview
+![Control Routing](images/control-routing.png)
+
+### 3D Views
+![Control 3D Angle 1](images/control-3d-1.png)
+![Control 3D Angle 2](images/control-3d-2.png)
