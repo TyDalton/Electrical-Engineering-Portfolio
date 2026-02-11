@@ -42,14 +42,14 @@ Public repository contains visuals only. Full design files are restricted.
 ---
 
 ### 3D View (Top)
-![Control 3D Top](CONTROL_TOP_FILENAME.png)
+![ADCS 3D Top](images/adcs_3d_top.png)
 
 ---
 
 ### 3D View (Bottom)
-![Control 3D Bottom](CONTROL_BOTTOM_FILENAME.png)
+![ADCS 3D Bottom](images/adcs_3d_bottom.png)
 
 ---
 
 ### Routing Overview
-![Control Routing](CONTROL_ROUTING_FILENAME.png)
+![ADCS Routing](images/adcs_routing.png)
