@@ -22,7 +22,7 @@ Boat operating in a drag race.
 - Integrated into sealed housing
 
 ![Motor Cross Section](images/CS_motor_housing)
-![Motor Windings](images/motor_windings.jpeg)
+![Motor Windings](images/motor_windings)
 
 ---
 
