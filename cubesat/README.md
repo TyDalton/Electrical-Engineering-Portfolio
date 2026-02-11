@@ -18,8 +18,8 @@ Public repository contains visuals only. Full design files are restricted.
 ![Motor Routing](images/motor-routing.png)
 
 ### 3D Views
-![Motor 3D Angle 1](images/motor-3d-1.png)
-![Motor 3D Angle 2](images/motor-3d-2.png)
+![Motor 3D Top View](images/motor-3d-1.png)
+![Motor 3D Bottom View](images/motor-3d-2.png)
 
 ---
 
@@ -35,5 +35,5 @@ Public repository contains visuals only. Full design files are restricted.
 ![Control Routing](images/control-routing.png)
 
 ### 3D Views
-![Control 3D Angle 1](images/control-3d-1.png)
-![Control 3D Angle 2](images/control-3d-2.png)
+![Control 3D Top View](images/control-3d-1.png)
+![Control 3D Bottom View](images/control-3d-2.png)
