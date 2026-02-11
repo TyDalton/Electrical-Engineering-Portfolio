@@ -8,7 +8,7 @@ This project focused on end-to-end system integration from motor construction to
 
 ## System Demonstration
 
-Boat operating in drag race.
+Boat operating in a drag race.
 
 [Watch Demonstration Video](VIDEO_LINK_HERE)
 
@@ -21,14 +21,14 @@ Boat operating in drag race.
 - Hand-wound copper windings
 - Integrated into sealed housing
 
-![Motor Cross Section](images/motor_cross_section.png)
+![Motor Cross Section](images/CS_motor_windings.png)
 ![Motor Windings](images/motor_windings.png)
 
 ---
 
 ## Mechanical View
 
-![Housing Assembly](images/housing_assembly.png)
+![Housing Assembly](images/expanded_motor_housing.png)
 
 ---
 
@@ -38,4 +38,4 @@ Boat operating in drag race.
 - Throttle and direction control logic
 - Real-time user feedback interface for motor RPM, motor temp, and run time
 
-![UI Overview](images/ui_overview.png)
+![UI Overview](images/ui_onshape.png)
