@@ -9,10 +9,10 @@ Public repository contains visuals only. Full design files are restricted.
 ## Motor Driver Board
 
 **Key Highlights**
-- 4-layer PCB stackup
+- 6-layer PCB stackup
 - High-current BLDC phase routing
 - Integrated current sensing
-- STM32 microcontroller integration
+- Duel STM32 microcontroller integration
 
 ### Routing Overview
 ![Motor Routing](images/motor-routing.png)
