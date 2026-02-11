@@ -8,32 +8,23 @@ Public repository contains visuals only. Full design files are restricted.
 
 ## Motor Driver Board
 
-**Key Highlights**
+### Key Highlights
 - 6-layer PCB stackup
 - High-current BLDC phase routing
 - Integrated current sensing
-- Duel STM32 microcontroller integration
-
-### Routing Overview
-![Motor Routing](images/motor-routing.png)
-
-### 3D Views
-![Motor 3D Top View](images/motor-3d-1.png)
-![Motor 3D Bottom View](images/motor-3d-2.png)
+- Dual STM32 microcontroller integration
 
 ---
 
-## Control / Sensor Board
+### 3D View (Top)
+![Motor 3D Top](Screenshot 2026-02-10 215501.png)
 
-**Key Highlights**
-- IMU, gyro, and magnetometer integration
-- I2C/SPI bus routing
-- Compact layout under CubeSat constraints
-- Embedded regulation and filtering
+---
+
+### 3D View (Bottom)
+![Motor 3D Bottom](Screenshot 2026-02-10 215437.png)
+
+---
 
 ### Routing Overview
-![Control Routing](images/control-routing.png)
-
-### 3D Views
-![Control 3D Top View](images/control-3d-1.png)
-![Control 3D Bottom View](images/control-3d-2.png)
+![Motor Routing](Screenshot 2026-02-10 215308.png)
