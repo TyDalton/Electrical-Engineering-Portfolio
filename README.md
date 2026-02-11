@@ -1,6 +1,5 @@
 # Electrical Engineering Portfolio
 
-Selected project.
 
 ## Projects
 
