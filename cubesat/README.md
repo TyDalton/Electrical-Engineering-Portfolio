@@ -11,7 +11,7 @@ Public repository contains visuals only. Full design files are restricted.
 ### Key Highlights
 - 6-layer PCB stackup
 - High-current BLDC phase routing
-- Integrated current sensing
+- Integrated current sensing and hall sensors for FOC control
 - Dual STM32 microcontroller integration
 
 ---
