@@ -46,10 +46,5 @@ Public repository contains visuals only. Full design files are restricted.
 
 ---
 
-### 3D View (Bottom)
-![ADCS 3D Bottom](images/adcs_3d_bottom.png)
-
----
-
 ### Routing Overview
 ![ADCS Routing](images/adcs_routing.png)
