@@ -1,9 +1,5 @@
 # Tyler Dalton — Electrical Engineering Portfolio
 
-## About Me
-Electrical Engineering student focused on controls, instrumentation, and electromechanical systems.  
-Experience includes power plant systems, embedded control, and hardware integration.
-
 ---
 
 ## Featured Projects
