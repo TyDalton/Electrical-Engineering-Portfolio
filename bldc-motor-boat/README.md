@@ -1,8 +1,8 @@
 # BLDC Motor Boat System
 
-End-to-end electromechanical system integrating custom motor design, embedded control, and real-world testing.
+End-to-end electromechanical system integrating custom motor design, mechanical housing, embedded control, and real-world testing.
 
-This project includes motor design, mechanical housing, control logic, and user interface development, validated through live operation.
+This project includes motor construction, mechanical integration, control logic, and user interface development, validated through live operation.
 
 ---
 
@@ -10,15 +10,7 @@ This project includes motor design, mechanical housing, control logic, and user 
 
 Real-world performance validation through competitive drag racing.
 
-<p align="center">
-  <a href="https://youtu.be/qGRBWFyrM-k">
-    <img src="images/expanded_motor_housing.png" height="280"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Click image to watch demonstration video</b>
-</p>
+[Watch Demonstration Video](https://youtu.be/qGRBWFyrM-k)
 
 ---
 
@@ -27,13 +19,13 @@ Real-world performance validation through competitive drag racing.
 Designed and built custom brushless DC motors with integrated mechanical housing.
 
 ### Key Features
-- 12-pole / 10-slot stator configuration  
-- Hand-wound copper windings  
-- Sealed motor housing for water operation  
+- 12-pole / 10-slot stator configuration
+- Hand-wound copper windings
+- Sealed motor housing for water operation
 
 ### Design Views
 <p align="center">
-  <img src="images/CS_motor_housing.png" height="250"/>
+  <img src="images/CS_motor_housing" height="250"/>
   <img src="images/motor_windings.png" height="250"/>
 </p>
 
@@ -44,7 +36,7 @@ Designed and built custom brushless DC motors with integrated mechanical housing
 Full housing and assembly designed to support motor operation in a water-based environment.
 
 <p align="center">
-  <img src="images/expanded_motor_housing.png" height="250"/>
+  <img src="images/expanded_motor_housing" height="250"/>
 </p>
 
 ---
@@ -54,10 +46,10 @@ Full housing and assembly designed to support motor operation in a water-based e
 Embedded control system enabling real-time user input and system feedback.
 
 ### Key Features
-- Arduino-based control system with joystick input  
-- Throttle and directional control logic  
-- Real-time monitoring of motor RPM, temperature, and runtime  
+- Arduino Uno-based joystick control
+- Throttle and directional control logic
+- Real-time monitoring of motor RPM, motor temperature, and runtime
 
 <p align="center">
-  <img src="images/ui_onshape.png" height="250"/>
+  <img src="images/ui_onshape" height="250"/>
 </p>
