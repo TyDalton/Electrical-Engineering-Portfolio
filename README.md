@@ -10,7 +10,7 @@ Flight hardware development for satellite attitude determination and motor contr
 - Hardware and control integration  
 - Real mission application
 
-👉 [View Project](./bldc-motor-boat/)
+👉 [View Project](./cubesat/)
 
 ---
 
@@ -20,4 +20,5 @@ Custom-designed and hand-wound brushless DC motors integrated into a full propul
 - Arduino-based control system  
 - Live tested in competitive racing environment  
 
-👉 [View Project](./cubesat/)
+👉 [View Project](./bldc-motor-boat/)
+
