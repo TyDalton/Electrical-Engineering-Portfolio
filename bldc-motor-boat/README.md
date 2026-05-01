@@ -1,8 +1,8 @@
 # BLDC Motor Boat System
 
-End-to-end electromechanical system integrating custom motor design, mechanical housing, embedded control, and real-world testing.
+End-to-end electromechanical system involving the design, construction, and control of a custom BLDC motor platform.
 
-This project includes motor construction, mechanical integration, control logic, and user interface development, validated through live operation.
+This project includes electromagnetic motor design, mechanical integration, embedded control development, and real-world validation.
 
 ---
 
@@ -16,12 +16,12 @@ Real-world performance validation through competitive drag racing.
 
 ## Custom BLDC Motor Design
 
-Designed and built custom brushless DC motors with integrated mechanical housing.
+Designed and fabricated custom brushless DC motors using electromagnetic modeling in Ansys and manual winding of stator coils.
 
 ### Key Features
-- 12-pole / 10-slot stator configuration
-- Hand-wound copper windings
-- Sealed motor housing for water operation
+- 12-pole / 10-slot stator configuration  
+- Hand-wound copper windings  
+- Sealed motor housing for water operation  
 
 ### Design Views
 <p align="center">
@@ -33,7 +33,7 @@ Designed and built custom brushless DC motors with integrated mechanical housing
 
 ## Mechanical Integration
 
-Full housing and assembly designed to support motor operation in a water-based environment.
+Mechanical housing and propulsion system designed to support reliable motor operation in a water-based environment.
 
 <p align="center">
   <img src="images/expanded_motor_housing" height="250"/>
@@ -43,13 +43,19 @@ Full housing and assembly designed to support motor operation in a water-based e
 
 ## Control & User Interface
 
-Embedded control system enabling real-time user input and system feedback.
+Embedded control system designed to translate user input into motor actuation with real-time feedback.
 
 ### Key Features
-- Arduino Uno-based joystick control
-- Throttle and directional control logic
-- Real-time monitoring of motor RPM, motor temperature, and runtime
+- Analog joystick-based control input mapped to throttle and directional commands  
+- Control logic implemented on Arduino platform  
+- Real-time monitoring of motor RPM, temperature, and runtime via user interface  
 
 <p align="center">
   <img src="images/ui_onshape" height="250"/>
 </p>
+
+---
+
+## System Validation
+
+System performance was validated through live testing in a competitive racing environment.
