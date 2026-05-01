@@ -1,41 +1,63 @@
 # BLDC Motor Boat System
 
-Custom-designed brushless DC motor boat integrating motor design, mechanical housing, and embedded user control.
+End-to-end electromechanical system integrating custom motor design, embedded control, and real-world testing.
 
-This project focused on end-to-end system integration from motor construction to real-world operation.
+This project includes motor design, mechanical housing, control logic, and user interface development, validated through live operation.
 
 ---
 
 ## System Demonstration
 
-Boat operating in a drag race.
+Real-world performance validation through competitive drag racing.
 
-[Watch Demonstration Video](https://youtu.be/qGRBWFyrM-k)
+<p align="center">
+  <a href="https://youtu.be/qGRBWFyrM-k">
+    <img src="images/expanded_motor_housing.png" height="280"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Click image to watch demonstration video</b>
+</p>
 
 ---
 
 ## Custom BLDC Motor Design
 
-### 12-Pole / 10-Slot Configuration
-- Custom stator configuration
-- Hand-wound copper windings
-- Integrated into sealed housing
+Designed and built custom brushless DC motors with integrated mechanical housing.
 
-![Motor Cross Section](images/CS_motor_housing)
-![Motor Windings](images/motor_windings.png)
+### Key Features
+- 12-pole / 10-slot stator configuration  
+- Hand-wound copper windings  
+- Sealed motor housing for water operation  
+
+### Design Views
+<p align="center">
+  <img src="images/CS_motor_housing.png" height="250"/>
+  <img src="images/motor_windings.png" height="250"/>
+</p>
 
 ---
 
-## Expanded Mechanical View
+## Mechanical Integration
 
-![Housing Assembly](images/expanded_motor_housing)
+Full housing and assembly designed to support motor operation in a water-based environment.
+
+<p align="center">
+  <img src="images/expanded_motor_housing.png" height="250"/>
+</p>
 
 ---
 
 ## Control & User Interface
 
-- Arduino Uno-based joystick control
-- Throttle and direction control logic
-- Real-time user feedback interface for motor RPM, motor temp, and run time
+Embedded control system enabling real-time user input and system feedback.
 
-![UI Overview](images/ui_onshape)
+### Key Features
+- Arduino-based control system with joystick input  
+- Throttle and directional control logic  
+- Real-time monitoring of motor RPM, temperature, and runtime  
+
+<p align="center">
+  <img src="images/ui_onshape.png" height="250"/>
+</p>
