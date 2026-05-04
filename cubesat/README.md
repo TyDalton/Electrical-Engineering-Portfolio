@@ -2,8 +2,6 @@
 
 Grant-funded capstone project focused on the design and integration of multi-layer PCBs for satellite subsystems.
 
-This repository contains visual documentation only. Full design files are restricted.
-
 ---
 
 ## System Overview
